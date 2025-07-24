@@ -2,7 +2,7 @@
 
 A real-time **portal simulation** with particle physics, gravity, and teleportation – all powered by **Processing / Java 17** 🚀
 
-![Preview]([https://ibb.co/KjJGv1Qw))
+![Preview](https://i.ibb.co/KjJGv1Q/portal-preview.png)
 
 ---
 
